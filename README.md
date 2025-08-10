@@ -1,4 +1,4 @@
-# Z80 NOP Tester v1.1
+# Z80 NOP Tester v1.2
 
 Z80 CPU NOP Instruction Tester
 

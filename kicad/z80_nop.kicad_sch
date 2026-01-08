@@ -4988,14 +4988,15 @@
 		)
 		(uuid "f6955a7c-d80a-4369-97ab-2300f3a46bdf")
 	)
-	(text "1nf + 100nf -> 325Hz to 22KHz Approx\n2.2nf + 47nF -> 150Hz to 10KHz Approx"
+	(text "1nf  -> 325Hz to 22KHz Approx\n2.2nf  -> 150Hz to 10KHz Approx\n4.7nf  -> 75Hz to 5KHz approx\n"
 		(exclude_from_sim no)
-		(at 99.822 123.698 0)
+		(at 49.276 100.838 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(thickness 0.1588)
 			)
+			(justify left)
 		)
 		(uuid "fd884d98-497f-464f-a46c-c9dd83839ba2")
 	)

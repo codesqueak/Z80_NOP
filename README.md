@@ -26,7 +26,7 @@ When executed, the CPU does nothing for one machine cycle and then increments th
 * Test points for s RFSH, M1, MREQ, RD IORQ, WR, HALT, BUSACK (Useful if your Z80 is mis-behaving)
 
 
-# Z80 NOP Tester v1.2 
+# Z80 NOP Tester v2.1
 
 Z80 CPU NOP HALT Instruction Tester
 

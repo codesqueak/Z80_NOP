@@ -26,7 +26,7 @@ When executed, the CPU does nothing for one machine cycle and then increments th
 * Test points for s RFSH, M1, MREQ, RD IORQ, WR, HALT, BUSACK (Useful if your Z80 is mis-behaving)
 
 
-# Z80 NOP Tester v2.1
+# Z80 NOP HALT Tester v2.1
 
 Z80 CPU NOP HALT Instruction Tester
 
@@ -38,9 +38,11 @@ In Z80 assembly, HALT is the opcode 0x76.
 
 When executed, the CPU enters HALT mode and ceases executing except for memory refresh operations
 
-
+## Documentation
 
 For full documentation, see the [NOP pdf here](Z80_NOP.pdf) and [NOP HALT pdf here](Z80_NOP_HALT.pdf)
+
+## Release 1.2 Boards
 
 ![PCB From JLCPCB](pcb.png)
 
